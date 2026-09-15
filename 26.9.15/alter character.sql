@@ -1,0 +1,8 @@
+
+ALTER DATABASE farm CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+ALTER TABLE product CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+ALTER TABLE farmer CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+ALTER TABLE record  CONVERT TO CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
