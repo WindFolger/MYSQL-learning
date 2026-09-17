@@ -1,2 +1,4 @@
 # MYSQL-learning
 我要学SQL
+2026-9-15今天学习MySQL第一天，配置了Navicat和Mysql，玩了几个基础指令；
+2026-9-17今天学习了聚合函数与分组统计；
